@@ -22,12 +22,12 @@ relatório simples, com informação sobre o incidente relatado, como por exempl
    --> Incidente: um campo de escolha única para um dos incidentes disponíveis para relato.
    --> Local: Poderia ser pego pelo local do usuário através do gps ou escolhido pelo usuário
 (caso já tenha saído do local do incidente).
-   --> Horário: Pode ser pego pelo horário do celular ou escolhido pelo usuário (caso ja tenha
+    --> Horário: Pode ser pego pelo horário do celular ou escolhido pelo usuário (caso ja tenha
 passado um tempo do incidente)
-   --> Descrição: Detalhes sobre o incidente, descrição melhor do local, de já estão lidando com
+    --> Descrição: Detalhes sobre o incidente, descrição melhor do local, de já estão lidando com
 a situação, se é uma denuncia grave ou não, urgência. Talvez possa ser dividida em outros
 campos de formulário.
-   --> Urgência/Importância: Nível de urgência do relato (nível de 0 a 5 ou por escala de
+    --> Urgência/Importância: Nível de urgência do relato (nível de 0 a 5 ou por escala de
 palavras), por motivos de alertas mais importantes e estatísticas sobre as regiões.
 
 ALERTAS
